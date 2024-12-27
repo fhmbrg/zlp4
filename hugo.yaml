@@ -1,0 +1,120 @@
+baseURL: https://fhmbrg.github.io/zlp4/
+languageCode: de-de
+title: Zajac & Leroy Physio
+theme: hugo-theme-relearn
+
+params:
+  author:
+    email: info@zl-physio.de
+    name: Zajac & Leroy Physio
+#  disableLandingPageButton: true # disables the entire home link
+  landingPageName: <i class="fa-fw fas fa-home"></i> # home link w/ custom nameing - currently no nameing is used, only icon!
+  themeVariant:
+  - auto:
+    - zen-light
+    - zen-dark
+    identifier: zen-auto
+    name: autodetect
+  - identifier: zen-light
+    name: hell
+  - identifier: zen-dark
+    name: dunkel
+
+outputs:
+  page:
+  - html
+  section:
+  - html
+
+outputFormats:
+  print:
+    baseName: index.print
+    isHTML: true
+    mediaType: text/html
+    name: print
+    noUgly: true
+    permalinkable: false
+
+markup:
+  goldmark:
+    duplicateResourceFiles: false
+    extensions:
+      cjk:
+        eastAsianLineBreaks: false
+        eastAsianLineBreaksStyle: simple
+        enable: false
+        escapedSpace: false
+      definitionList: true
+      extras:
+        delete:
+          enable: false
+        insert:
+          enable: false
+        mark:
+          enable: false
+        subscript:
+          enable: false
+        superscript:
+          enable: false
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      passthrough:
+        delimiters:
+          block: []
+          inline: []
+        enable: false
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer:
+        apostrophe: '&rsquo;'
+        disable: false
+        ellipsis: '&hellip;'
+        emDash: '&mdash;'
+        enDash: '&ndash;'
+        leftAngleQuote: '&laquo;'
+        leftDoubleQuote: '&ldquo;'
+        leftSingleQuote: '&lsquo;'
+        rightAngleQuote: '&raquo;'
+        rightDoubleQuote: '&rdquo;'
+        rightSingleQuote: '&rsquo;'
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+      wrapStandAloneImageWithinParagraph: true
+    renderHooks:
+      image:
+        enableDefault: false
+      link:
+        enableDefault: false
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
+
+menus:
+  main:
+  - name: Products
+    pageRef: /products
+    weight: 10
+  - name: Hardware
+    pageRef: /products/hardware
+    parent: Products
+    weight: 1
+  - name: Software
+    pageRef: /products/software
+    parent: Products
+    weight: 2
+  - name: Services
+    pageRef: /services
+    weight: 20
+  - name: Hugo
+    params:
+      rel: external
+    pre: <i class="fa fa-heart"></i>
+    url: https://gohugo.io/
+    weight: 30
