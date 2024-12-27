@@ -9,9 +9,11 @@ ShowToc: true
 TocOpen: true
 ---
 
-Unsere Praxis ist für Sie
+{{% notice style="green" %}}
+Unsere Praxis ist
 
-- **Montag bis Donnerstag** von **08:00 bis 16:00 Uhr** und
-- **Freitag** von **08:00 bis 12:00 Uhr**
+- **montags bis donnerstags** von **08:00 bis 16:00 Uhr** und
+- **freitags** von **08:00 bis 12:00 Uhr**
 
-geöffnet.
+für Sie geöffnet.
+{{% /notice %}}

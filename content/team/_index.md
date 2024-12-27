@@ -46,7 +46,6 @@ tags: ["Physiotherapeutin", "Physiotherapeut", "Sportphysiotherapeutin", "Sportp
 ## Verwaltung
 
 <i class="fa-solid fa-phone"></i> [02428/9 058 509](tel:+4924289058509)\
-<i class="fa-solid fa-fax"></i> [02428/9 058 508](tel:+4924289058508)
 
 ### Sandra Popp
 
