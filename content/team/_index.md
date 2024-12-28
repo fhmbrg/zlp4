@@ -11,9 +11,13 @@ tags: ["Physiotherapeutin", "Physiotherapeut", "Sportphysiotherapeutin", "Sportp
 
 ### Zdobek Zajac
 
+![Zdobek](/teammitglieder/zdobek.jpg?classes=left)
+
 * Physiotherapeut Bc. (NL)
 
 ### Michael Leroy
+
+![Micha](/teammitglieder/michael.jpg?classes=left)
 
 * Physiotherapeut Bc. (NL)
 * Manualtherapeut M.Sc. (NL)
@@ -35,6 +39,8 @@ tags: ["Physiotherapeutin", "Physiotherapeut", "Sportphysiotherapeutin", "Sportp
 
 ### Burak Dokuyucu
 
+![Burak](/teammitglieder/burak.gif?classes=left)
+
 * Physiotherapeut Bc (NL)
 * Sportphysiotherapie Master (D)
 
@@ -45,9 +51,11 @@ tags: ["Physiotherapeutin", "Physiotherapeut", "Sportphysiotherapeutin", "Sportp
 
 ## Verwaltung
 
-<i class="fa-solid fa-phone"></i> [02428/9 058 509](tel:+4924289058509)\
+<i class="fa-solid fa-phone"></i> [02428/9 058 509](tel:+4924289058509)
 
 ### Sandra Popp
+
+![Sandra](/teammitglieder/sandra.gif?classes=left)
 
 * Rezeption
 
