@@ -88,7 +88,7 @@ Beispiel:
   - {{% notice color="orange" title="**diese Adresse (***kontakt@zl-physio.de***) sollte nach Möglichkeit eine Alias-Adresse sein, die hinter dem Konto der Geschäftsführung oder der Verwaltung angesiedelt ist, um **unverzügliches Reagieren zu gewährleisten****" %}}
 {{% /notice %}}
 
-{{% notice color="red" title="**Kommunikationsmedium Whatsapp**" %}}
+{{% notice color="red" title="**Kommunikationsmedium WhatsApp**" %}}
 Auch ist meiner Aufmerksamkeit nicht entgangen, dass einer der genutzten Kommunikationskanäle ***WhatsApp*** ist. *Leider ist dessen Marktanteil viel zu Hoch, was der Situation geschuldet ist, dass es in diesem Bereich eine Vorreiterrolle übernommen hat*.
 
 Nachteile:
