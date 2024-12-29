@@ -17,5 +17,5 @@ Bitte beachten Sie, dass ein Termin, den Sie nicht einhalten können, **mindeste
 {{% notice style="red" title="{{% icon circle-exclamation %}} Absage von Terminen, die länger als 30 Minuten sind" %}}
 Bitte beachten Sie, das bei Terminen, die länger als 30 Minuten andauer, **die Absage mindestens {{% badge style="grey" %}}Zeitspanne hier eintragen!{{% /badge %}} im Voraus erfolgen muss!**
 
-**Nicht rechtzeitig abgesagte Termine müssen wir Ihnen leider privat in Rechnung stellen!**
+**Nicht rechtzeitig abgesagte Termine müssen wir Ihnen privat in Rechnung stellen!**
 {{% /notice %}}
