@@ -2,7 +2,6 @@
 alwaysopen: true
 menuPre: <i class="fa-regular fa-address-card"></i>
 title: " Kontakt"
-type: "chapter"
 weight: 5
 tags: ["Öffnungszeiten", "Termine", "Kontakt"]
 ---

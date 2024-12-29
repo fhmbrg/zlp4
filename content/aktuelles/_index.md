@@ -1,11 +1,12 @@
 ---
-alwaysopen: true
 menuPre: "<i class='fa-fw fas fa-bell'></i>"
+alwaysopen: true
+collapsibleMenu: true
 title: " Aktuelles"
-type: "chapter"
 weight: 1
 ---
-
+{{% notice style="orange" title="{{% icon newspaper%}} Das Nachrichtenzentrum von Zajac & Leroy Physio" %}}
 Auf den Unterseiten der Kategorie ***Aktuelles*** werden wir Ihnen künfig Informationen präsentieren, die Ihrer geschätzten Aufmerksamkeit bedürfen.
+{{% /notice %}}
 
 {{% children containerstyle="div" style="h2" description=true %}}
