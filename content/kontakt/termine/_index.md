@@ -13,11 +13,13 @@ Ihre **individuellen Termine** können Sie mit unseren [**Mitarbeiterinnen der V
 **Bitte beachten Sie die folgenden Informationen bzgl. Terminstornierungen:**
 
 {{% notice style="red" title="**Absage von Terminen, die bis zu 30 Minuten andauern**" groupid="notice-toggle" expanded="false" %}}
-Bitte beachten Sie, dass ein Termin, den Sie nicht einhalten können, **mindestens einen Tag im Voraus** abgesagt werden muss, andernfalls sind wir verpflichtet diesen als wahrgenommen zu verbuchen.
+Bitte beachten Sie, dass Termine mit einer **Dauer von bis zu 30 Minuten**, die Sie nicht wahrnehmen können, **mindestens einen Tag im Voraus** abgesagt werden müssen!
+
+**Andernfalls sind wir verpflichtet diesen als wahrgenommen zu verbuchen.**
 {{% /notice %}}
 
 {{% notice style="red" title="**Absage von Terminen, die länger als 30 Minuten andauern**" groupid="notice-toggle" expanded="false" %}}
-Bitte beachten Sie, dass ein Termin, der länger als 30 Minuten andauert, **die Absage mindestens {{% badge style="orange" %}}Zeitspanne wird benötigt!{{% /badge %}} im Voraus erfolgen muss!**
+Bitte beachten Sie, dass Termine mit einer **Dauer von mehr als 30 Minuten**, die Sie nicht wahrnehmen können, **mindestens {{% badge style="orange" %}}**Zeitspanne wird benötigt!**{{% /badge %}} im Voraus** abgesagt werden müssen!
 
-**Nicht rechtzeitig abgesagte Termine müssen wir Ihnen privat in Rechnung stellen!**
+**Nicht fristgerecht abgesagte Termine müssen wir Ihnen privat in Rechnung stellen!**
 {{% /notice %}}
