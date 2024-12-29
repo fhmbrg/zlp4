@@ -1,19 +1,26 @@
-baseURL: https://fhmbrg.github.io/zlp4/
+baseURL: /
 languageCode: de-de
 title: Zajac & Leroy Physio
 theme: hugo-theme-relearn
 
 params:
-  author:
-    email: info@zl-physio.de
-    name: Zajac & Leroy Physio
-  disableLandingPageButton: true # disables the entire home link  breadcrumbSeparator: /
+  disableLandingPageButton: true                      # Disables the entire home link  breadcrumbSeparator: /
+  landingPageName: <i class="fa-fw fas fa-home"></i>  # Home link w/ custom nameing - currently no nameing is used, only icon!
+  disableNextPrev: true                               # Disables TopBar `<` and `>` buttons
+  disableSearchHiddenPages: true                      # Hide hidden pages from Search
+  disableSeoHiddenPages: true                         # Hide hidden pages from Search Engines
+  disableTagHiddenPages: true                         # Hide hidden pages from Taxonomies
+  imageEffects:                                       # With the following settings the don't need to be defined with each image separately
+    border: false                                     # Disable border around an image
+    lazy: true                                        # Enable lazy loading
+    lightbox: true                                    # Opens image in real size
+    shadow: false                                     # Disable shadows
+
   disableRootBreadcrumb: true
   disableTermBreadcrumbs: true
   disableAnchorCopy: false
-  disableExplicitIndexURLs: true
+  disableExplicitIndexURLs: true                      # Disables the trailing `index.html` with each URL
   disableDefaultRelref: true
-  landingPageName: <i class="fa-fw fas fa-home"></i> # home link w/ custom nameing - currently no nameing is used, only icon!
   themeVariant:
   - auto:
     - zen-light
@@ -24,6 +31,9 @@ params:
     name: hell
   - identifier: zen-dark
     name: dunkel
+  author:
+    email: info@zl-physio.de
+    name: Zajac & Leroy Physio
 
 outputs:
   page:
