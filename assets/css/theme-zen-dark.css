@@ -42,8 +42,17 @@
   --MENU-SECTION-ACTIVE-CATEGORY-BG-color: rgba( 224, 224, 224, .75 ); /* background color of the displayed menu topic */
   --MENU-SECTION-SEPARATOR-color: rgba( 71, 71, 71, .66 ); /* separator color between menu sections and menu footer */
   --MENU-VISITED-color: rgba( 39, 39, 39, 1 ); /* icon color of visited menu topics if configured */
-  --BOX-CAPTION-color: rgba( 240, 240, 240, 1 ); /* text color of colored box titles */
-  --BOX-BG-color: rgba( 20, 20, 20, 1 ); /* background color of colored boxes */
-  --BOX-TEXT-color: rgba( 224, 224, 224, 1 ); /* text color of colored box content */
-  --BOX-GREY-color: rgba( 71, 71, 71, 1 ); /* background color of grey boxes */
+
+/* Same color definition as with the light theme!!! */
+
+  --BOX-CAPTION-color: rgba(255, 255, 255, 1); /* text color of colored box titles */
+  --BOX-BG-color: rgba(255, 255, 255, 0.833); /* background color of colored boxes */
+  --BOX-TEXT-color: rgba(16, 16, 16, 1); /* text color of colored box content */
+  --BOX-GREY-color: rgba(210, 210, 210, 1); /* background color of grey boxes */
+
+/* Stock dark theme color definition!!! */
+/*  --BOX-CAPTION-color: rgba( 240, 240, 240, 1 ); /* text color of colored box titles */
+/*  --BOX-BG-color: rgba( 20, 20, 20, 1 ); /* background color of colored boxes */
+/*  --BOX-TEXT-color: rgba( 224, 224, 224, 1 ); /* text color of colored box content */
+/*  --BOX-GREY-color: rgba( 71, 71, 71, 1 ); /* background color of grey boxes */
 }
