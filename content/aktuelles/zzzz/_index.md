@@ -1,8 +1,8 @@
 ---
-menuPre: <i class="fa-regular fa-newspaper"></i>
+menuPre: '<i class="fa-regular fa-newspaper"></i> '
 alwaysopen: true
 collapsibleMenu: true
-title: " News am laufenden Band"
+title: News am laufenden Band
 description: "Neuigkeiten über Neuigkeiten"
 weight: 1
 tags: ["Aktuelles", "Neuigkeiten", "Urlaub", "Betriebsferien"]

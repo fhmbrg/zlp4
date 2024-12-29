@@ -1,7 +1,7 @@
 ---
-menuPre: <i class="fa-solid fa-shield-halved"></i>
+menuPre: '<i class="fa-solid fa-shield-halved"></i> '
 alwaysopen: true
-title: " Datenschutzerklärung"
+title: Datenschutzerklärung
 weight: 100
 ---
 

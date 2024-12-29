@@ -1,7 +1,7 @@
 ---
-menuPre: <i class="fa-solid fa-stamp"></i>
+menuPre: '<i class="fa-solid fa-stamp"></i> '
 alwaysopen: true
-title: " Impressum"
+title: Impressum
 weight: 99
 ---
 

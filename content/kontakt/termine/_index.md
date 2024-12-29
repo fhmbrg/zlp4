@@ -1,8 +1,8 @@
 ---
-menuPre: <i class="fa-solid fa-calendar-days"></i>
+menuPre: '<i class="fa-solid fa-calendar-days"></i> '
 alwaysopen: true
 collapsibleMenu: true
-title: " Termine"
+title: Termine
 description: "Alles rund um Ihre Termine"
 weight: 2
 tags: ["Termin", "buchen", "vereinbaren", "absage", "stornieren"]

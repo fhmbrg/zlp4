@@ -1,7 +1,7 @@
 ---
-menuPre: <i class="fa-solid fa-people-group"></i>
+menuPre: '<i class="fa-solid fa-people-group"></i> '
 alwaysopen: true
-title: " Team"
+title: Team
 weight: 4
 tags: ["Physiotherapeutin", "Physiotherapeut", "Sportphysiotherapeutin", "Sportphysiotherapeut", "Verwaltung"]
 ---

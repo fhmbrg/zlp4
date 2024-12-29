@@ -1,7 +1,7 @@
 ---
-menuPre: <i class="fa-solid fa-person-digging"></i>
+menuPre: '<i class="fa-solid fa-person-digging"></i> '
 alwaysopen: true
-title: " Projekt ZLP Website"
+title: Projekt ZLP Website
 weight: 12
 tags: ["benötigte Infos", "Anmerkung", "Vorschau", "Tip", "Ratschlag"]
 ---

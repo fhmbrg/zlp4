@@ -1,10 +1,10 @@
 ---
 _build:
   render: never
-menuPre: "<i class='fa-fw fas fa-bell'></i>"
+menuPre: '<i class="fa-fw fas fa-bell"></i> '
 alwaysopen: true
 collapsibleMenu: false
-title: " Aktuelles"
+title: Aktuelles
 weight: 1
 ---
 {{% notice style="orange" title="{{% icon newspaper%}} Das Nachrichtenzentrum von Zajac & Leroy Physio" %}}

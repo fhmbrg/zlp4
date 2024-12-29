@@ -1,8 +1,8 @@
 ---
-menuPre: <i class="fa-solid fa-globe"></i>
+menuPre: '<i class="fa-solid fa-globe"></i> '
 alwaysopen: true
 collapsibleMenu: true
-title: " Homepage-Design"
+title: Homepage-Design
 description: "In 2025 erstrahlt unse Homepage in neuem Glanz"
 weight: 1
 tags: ["Aktuelles", "Neuigkeiten", "Urlaub", "Betriebsferien"]

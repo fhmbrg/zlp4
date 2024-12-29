@@ -1,8 +1,8 @@
 ---
-menuPre: <i class="fa-solid fa-sleigh"></i>
+menuPre: '<i class="fa-solid fa-sleigh"></i> '
 alwaysopen: true
 collapsibleMenu: true
-title: " Betriebsferien"
+title: Betriebsferien
 description: "Zajac & Leroy Physio mach Urlaub"
 weight: 1
 tags: ["Aktuelles", "Neuigkeiten", "Urlaub", "Betriebsferien"]
