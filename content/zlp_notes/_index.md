@@ -7,9 +7,9 @@ tags: ["benötigte Infos", "Anmerkung", "Vorschau", "Tip", "Ratschlag"]
 ---
 
 {{% notice style="red" title="**Die Texte der derzeitigen Homepage scheint niemand jemals gelesen zu haben**" %}}
-Leider sind mir auf der derzeitigen Webseite diverse, **peinliche <i class="fa-solid fa-triangle-exclamation"></i>**, Rechtschreibfehler aufgefallen, die nicht passieren dürfen zumal es sich dabei um Vokabular aus der eigenen Niche handelt <i class="fa-solid fa-triangle-exclamation"></i>
+Leider sind mir auf der derzeitigen Webseite diverse, **peinliche Rechtschreibfehler** aufgefallen, die nicht passieren dürfen, zumal es sich dabei **nicht selten** um Vokabular aus der eigenen Nische handelt <i class="fa-solid fa-triangle-exclamation"></i>
 
-Als Beispiel sei die Sektion "Leistungen" genannt. Dort steht (Auszug der gegenwärtigen [Website](https://zl-physio.de/leistungen)):
+Als Beispiel sei die Sektion ***Leistungen*** genannt. Dort steht (Auszug der gegenwärtigen [Website](https://zl-physio.de/leistungen)):
 
 > Ostheopatische Techniken
 >
@@ -42,28 +42,29 @@ Beispiele können mit Hilfe der Bildersuche der bevorzugten Suchmaschine betrach
 - Gruppenfoto (**gesamtes Team**)
 - Alle Teammitglieder einzeln (Style ähnlich eines Passbildes, nur nicht so ernst) --- **man möchte sich schließlich verkaufen und nicht die potentielle Kundschaft vergraulen <i class="fa-solid fa-triangle-exclamation"></i>**
 
-**Ein guter Tag für das Fotoshooting scheint freitags zu sein, siehe [Öffnungszeiten](/kontakt/oeffnungszeiten). Zum einen endet die Öffungszeit an diesem Tag um 12:00 Uhr und zum anderen stehen der komplette Samstag wie auch Sonntag zur Verfügung ;-)**
+**Ein guter Tag für das Fotoshooting scheint freitags zu sein, siehe [Öffnungszeiten](/kontakt/oeffnungszeiten). Zum einen ist das Unternehmen für Kunden an diesem Tag ab 12:00 Uhr geschlossen und zum anderen stehen der komplette Samstag wie auch Sonntag zur Verfügung ;-)**
 
 ### Ergänzendes Textmaterial
 
-- Regelung/en Terminabsage <i class="fa-solid fa-circle-question"></i> **Bitte die Texte der Sektion [Termine](/kontakt/termine/index.html) auf dieser Demo-Website entsprechend anpassen und mir zur Verfügung stellen <i class="fa-solid fa-triangle-exclamation"></i>**
+- Regelung/en Terminabsage <i class="fa-solid fa-circle-exclamation"></i> **Bitte die Texte der Sektion [Termine](/kontakt/termine/index.html) auf dieser Demo-Website einsehen und mir Ergänzungen/Anpassungen zur Verfügung stellen <i class="fa-solid fa-triangle-exclamation"></i>**
   - Folgen der Nichteinhaltung (konnte nur einen Auszug des Textes auf einer meiner gedruckten Terminübersichten sehen) <i class="fa-solid fa-circle-question"></i> **Hier gilt das Gleiche wie beim vorherigen Punkt <i class="fa-solid fa-triangle-exclamation"></i>**
 
-### Benötigte Informationen
+### Frage zur Unternehmenskultur
 
 Warum herrscht eine ausgeprägte Abneigung gegen das zeitgemäße, wenn auch angestaubte, Kommunikationsmedium ***E-Mail*** <i class="fa-solid fa-circle-question"></i> Wir befinden uns im 21. Jahrhundert und selbst Dinosaurier der Gattung ***Zajaxus-Leroyus-Praxikus*** sollten auf dieses Relikt, welches seine Geburtsstunde übrigens Ende der 1980er hatte, vermehrten setzen <i class="fa-solid fa-triangle-exclamation"></i>
 
-Vorteile:
+**Vorteile:**
 
 - aktueller Workflow wird nicht durch Telefonate unterbrochen
 - Kommunikation kann, zum Teil, mit Hilfe von Textbausteinen abgearbeitet werden (Zeitersparnis)
   - da ich davon ausgehe, dass Windows das verwendete Betriebssystem ist, ist [**Phrase Express**](https://www.phraseexpress.com/de/) das Mittel zum Erfolg
-    - Standard Version ist kostenlos
+    - Standard Version ist kostenlos; Funktionsumfang sollte ausreichen <i class="fa-solid fa-fire-flame-curved"></i>
     - Pro Version schlägt mit einmalig 149,95 € inkl. USt zu Buche
   - sollte es zu meiner Freude eine Linux Distribution sein ist [**Espanso**](https://espanso.org/) ganz klar zu empfehlen
-    - Diese Software ist, wie ca. 98% der Linux Softwareprodukte, kostenlos
+    - Diese Software ist, wie ca. 98% der Linux Softwareprodukte, kostenlos <i class="fa-solid fa-fire-flame-curved"></i>
 - auf den Inhalt der Kommunikation kann im Nachgang jederzeit zurückgegriffen werden, sofern die E-Mail noch nicht gelöscht wurde
-- bei Rückfragen kann bei Bedarf immer noch zum Hörer gegriffen werden
+- bei Rückfragen kann bei Bedarf immer noch zum <i class="fa-solid fa-phone"></i> Hörer gegriffen werden
+
 
 {{% notice color="orange" title="**Aktuelle Situation E-Mail**" %}}
 Meiner Aufmerksamkeit ist nicht entgangen, dass gegenwärtig mit massivem Spamaufkommen im digitalen Posteingang gekämpft wird. Ist netcup in diesem Zusammenhang einfach nur schlecht, oder wurde die digitale Dienstleistung kundenseitig nur nachlässig konfiguriert <i class="fa-solid fa-circle-question"></i>
@@ -144,4 +145,8 @@ Es sollte der Tarif ***"Business"*** genutzt werden, um die notwendigen Themenge
 
 ## Schlussbemerkung
 
-**Die benötigten Informationen, Texte und Bilder bitte in digitaler Form bereitstellen.**
+**Die benötigten Informationen (Texte und Bilder) bitte in digitaler Form bereitstellen, bei Fragen <i class="fa-solid fa-phone"></i> :**
+
+<div class="video-wrapper">
+  <iframe width="800" height="600" src="https://www.youtube.com/embed/rksCTVFtjM4?si=NxqWLEXXaz9ig7CS" frameborder="0" allowfullscreen></iframe>
+</div>
