@@ -7,7 +7,7 @@ params:
   author:
     email: info@zl-physio.de
     name: Zajac & Leroy Physio
-#  disableLandingPageButton: true # disables the entire home link
+  disableLandingPageButton: true # disables the entire home link
   landingPageName: <i class="fa-fw fas fa-home"></i> # home link w/ custom nameing - currently no nameing is used, only icon!
   themeVariant:
   - auto:
