@@ -2,11 +2,10 @@
 menuPre: <i class="fa-solid fa-door-open"></i>
 alwaysopen: true
 collapsibleMenu: true
+description: "Unsere Öffnungszeiten"
 title: " Öffnungszeiten"
 weight: 3
 tags: ["Aktuelles", "Neuigkeiten", "Information"]
-ShowToc: true
-TocOpen: true
 ---
 
 {{% notice style="green" %}}

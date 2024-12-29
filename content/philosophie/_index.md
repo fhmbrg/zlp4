@@ -1,9 +1,8 @@
 ---
 menuPre: <i class="fa-solid fa-spa"></i>
+alwaysopen: true
 title: " Philosophie"
 weight: 2
-ShowToc: true
-TocOpen: true
 tags: ["Besserung", "Erfolg", "Behandlung", "Trainig", "Bewegungsablauf", "Körpergewicht", "Hilfsmittel", "Leistungssport"]
 ---
 

@@ -1,8 +1,8 @@
 ---
-title: 'Datenschutzerklärung'
+menuPre: <i class="fa-solid fa-shield-halved"></i>
+alwaysopen: true
+title: " Datenschutzerklärung"
 weight: 100
-ShowToc: true
-TocOpen: true
 ---
 
 ## 1. Datenschutz auf einen Blick

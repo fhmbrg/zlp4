@@ -3,10 +3,9 @@ menuPre: <i class="fa-solid fa-calendar-days"></i>
 alwaysopen: true
 collapsibleMenu: true
 title: " Termine"
+description: "Alles rund um Ihre Termine"
 weight: 2
-tags: ["Aktuelles", "Neuigkeiten", "Information"]
-ShowToc: true
-TocOpen: true
+tags: ["Termin", "buchen", "vereinbaren", "absage", "stornieren"]
 ---
 
 Ihre **individuellen Termine** können Sie mit unseren [**Mitarbeiterinnen der Verwaltung**](/team/#verwaltung) abstimmen.

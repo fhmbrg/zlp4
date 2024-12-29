@@ -1,9 +1,8 @@
 ---
 menuPre: <i class="fa-solid fa-people-group"></i>
+alwaysopen: true
 title: " Team"
 weight: 4
-ShowToc: true
-TocOpen: true
 tags: ["Physiotherapeutin", "Physiotherapeut", "Sportphysiotherapeutin", "Sportphysiotherapeut", "Verwaltung"]
 ---
 
@@ -11,13 +10,13 @@ tags: ["Physiotherapeutin", "Physiotherapeut", "Sportphysiotherapeutin", "Sportp
 
 ### Zdobek Zajac
 
-![Zdobek](/teammitglieder/zdobek.jpg?classes=left)
+![Zdobek](/teammitglieder/zdobek.jpg?classes=left&lightbox=false)
 
 * Physiotherapeut Bc. (NL)
 
 ### Michael Leroy
 
-![Micha](/teammitglieder/michael.jpg?classes=left)
+![Micha](/teammitglieder/michael.jpg?classes=left&lightbox=false)
 
 * Physiotherapeut Bc. (NL)
 * Manualtherapeut M.Sc. (NL)
@@ -39,8 +38,7 @@ tags: ["Physiotherapeutin", "Physiotherapeut", "Sportphysiotherapeutin", "Sportp
 
 ### Burak Dokuyucu
 
-![Burak](/teammitglieder/burak.gif?classes=left)
-
+![Burak](/teammitglieder/burak.gif?classes=left&lightbox=false)
 * Physiotherapeut Bc (NL)
 * Sportphysiotherapie Master (D)
 
@@ -55,7 +53,7 @@ tags: ["Physiotherapeutin", "Physiotherapeut", "Sportphysiotherapeutin", "Sportp
 
 ### Sandra Popp
 
-![Sandra](/teammitglieder/sandra.gif?classes=left)
+![Sandra](/teammitglieder/sandra.gif?classes=left&lightbox=false)
 
 * Rezeption
 

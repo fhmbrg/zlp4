@@ -1,8 +1,8 @@
 ---
-title: 'Impressum'
+menuPre: <i class="fa-solid fa-stamp"></i>
+alwaysopen: true
+title: " Impressum"
 weight: 99
-ShowToc: true
-TocOpen: true
 ---
 
 Zajac & Leroy Physio\
@@ -29,7 +29,7 @@ Musterbehörde Musterstadt\
 Musterweg 10\
 90210 Musterstadt
 
-<a href="http://www.meine-aufsichtsbehörde.de" target="_blank" rel="noopener noreferrer">http://www.meine-aufsichtsbehörde.de</a>
+<a href="https://www.meine-aufsichtsbehörde.de/" target="_blank" rel="noopener noreferrer">www.meine-aufsichtsbehörde.de</a>
 
 ## Berufsbezeichnung und berufsrechtliche Regelungen
 
@@ -73,4 +73,4 @@ Deutschland
 
 Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
 
-Quelle: [https://www.e-recht24.de/impressum-generator.html](https://www.e-recht24.de/impressum-generator.html)
+Quelle: <a href="https://www.e-recht24.de/impressum-generator.html" target="_blank" rel="noopener noreferrer">https://www.e-recht24.de/impressum-generator.html</a>

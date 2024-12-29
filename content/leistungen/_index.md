@@ -1,9 +1,8 @@
 ---
 menuPre: <i class="fa-solid fa-hand-sparkles"></i>
+alwaysopen: true
 title: " Leistungen"
 weight: 3
-ShowToc: true
-TocOpen: true
 tags: ["Physiotherapie", "Therapie", "Lymphdrainage", "Lymphknoten", "Funktionsstörungen", "Gelenke", "Verspannungen", "Stoffwechsel", "Gewebsflüssigkeit", "Krebserkrankungen", "Verletzung", "Unfall", "Massage", "Kinesio-Taping", "Bobath", "Schlaganfall", "Säugling", "Kind", "Erwachsene", "Osteopathie", "Blockade", "Bandscheibenvorfall", "Hexenschuss", "Tinnitus", "Inkontinenz"]
 ---
 
