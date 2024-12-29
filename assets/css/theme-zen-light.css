@@ -1,7 +1,11 @@
 :root {
   /* zen-light */
   --PRIMARY-color: rgba(26, 115, 232, 1); /* brand primary color */
-  --SECONDARY-color: rgba(26, 115, 232, 1); /* brand secondary color */
+
+  --SECONDARY-color: rgba( 195 48 45 ); /* brand secondary color */
+
+/*  --SECONDARY-color: rgba( 47, 129, 235, 1 ); /* brand secondary color */ */
+
 
   --MAIN-TOPBAR-BORDER-color: rgba(210, 210, 210, 1); /* border color between topbar and content */
   --MAIN-LINK-HOVER-color: rgb(209, 62, 59); /* hoverd link color of content */
