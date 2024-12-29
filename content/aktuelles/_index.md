@@ -1,7 +1,9 @@
 ---
+_build:
+  render: never
 menuPre: "<i class='fa-fw fas fa-bell'></i>"
 alwaysopen: true
-collapsibleMenu: true
+collapsibleMenu: false
 title: " Aktuelles"
 weight: 1
 ---
