@@ -1,5 +1,5 @@
 ---
-menuPre: '<i class="fa-solid fa-door-open"></i> '
+menuPre: '<i class="fa-regular fa-clock"></i> '
 alwaysopen: true
 collapsibleMenu: true
 description: "Unsere Öffnungszeiten"

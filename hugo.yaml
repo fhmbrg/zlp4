@@ -38,8 +38,10 @@ params:
 outputs:
   page:
   - html
+  - print
   section:
   - html
+  - print
 
 outputFormats:
   print:

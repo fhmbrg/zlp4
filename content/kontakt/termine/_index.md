@@ -8,7 +8,7 @@ weight: 2
 tags: ["Termin", "buchen", "vereinbaren", "absage", "stornieren"]
 ---
 
-Ihre **individuellen Termine** können Sie mit unseren [**Mitarbeiterinnen der Verwaltung**](/team/#verwaltung) abstimmen.
+Ihre **individuellen Termine** können Sie mit unseren [**Mitarbeiterinnen der Verwaltung**](/zlp/team/#verwaltung) abstimmen.
 
 **Bitte beachten Sie die folgenden Informationen bzgl. Terminstornierungen:**
 
