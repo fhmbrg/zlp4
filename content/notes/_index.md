@@ -197,9 +197,5 @@ Es sollte der Tarif ***"Business"*** genutzt werden, um die notwendigen Themenge
 ## Schlussbemerkungen
 
 - **Die benötigten Informationen (Texte und Bilder) bitte in digitaler Form bereitstellen**
-- Die erwähnten Ratschläge beherzigen, andernfalls kann es früher oder später *teuer*, **sehr teuer** oder gar ***vernichtend teuer werden!***
+- {{% badge style="warning" %}}Die erwähnten Ratschläge beherzigen, andernfalls kann es früher oder später *teuer*, **sehr teuer** oder gar ***vernichtend teuer*** werden!{{% /badge %}}
 - bei Fragen <i class="fa-solid fa-phone"></i>
-
-<div class="video-wrapper">
-  <iframe width="800" height="600" src="https://www.youtube.com/embed/rksCTVFtjM4?si=NxqWLEXXaz9ig7CS" frameborder="0" allowfullscreen></iframe>
-</div>
