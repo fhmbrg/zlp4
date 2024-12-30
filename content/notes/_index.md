@@ -98,7 +98,7 @@ Quelle: https://www.e-recht24.de/datenschutz/11342-geschaeftliche-e-mails-signat
   - {{% notice color="orange" title="**diese Adresse (***kontakt@zl-physio.de***) sollte nach Möglichkeit eine Alias-Adresse sein, die hinter dem Konto der Geschäftsführung oder der Verwaltung angesiedelt ist, um **unverzügliches Reagieren zu gewährleisten****" %}}
 {{% /notice %}}
 
-{{% notice color="red" title="**Kommunikationsmedium WhatsApp**" %}}
+{{% notice color="orange" title="**Kommunikationsmedium WhatsApp**" %}}
 Auch ist meiner Aufmerksamkeit nicht entgangen, dass einer der genutzten Kommunikationskanäle ***WhatsApp*** ist. *Leider ist dessen Marktanteil viel zu Hoch, was der Situation geschuldet ist, dass es in diesem Bereich eine Vorreiterrolle übernommen hat*.
 
 Nachteile:
@@ -107,7 +107,7 @@ Nachteile:
 - der Griff zum Smartphone unterbricht den gegenwärtigen Workflow!
 - Die betriebliche Nutzung **muss zwingend** in der Datenschutzerklärung **als rechssicherer Text aufgeführt sein**! Dieser Passus ist **nicht** Teil der [Datenschutzerklärung](/rechtliches/datenschutz) dieser Demo-Website! Solcher Art rechtssicherer Texte werden in der kostenfreien Variante von [e-rech24.de](https://www.e-recht24.de/mitglieder/?source_id=Acquisition_Navigation_Free_Mainnav_Website_AcquisitionNavigationFreeWebsiteBanner20240701_Banner_3Toolbox#pricingtable) nicht berücksichtigt.
 
-{{% notice color="orange" title="**Was es bei der Nutzung von WhatsApp zu berücksichtigen gilt**" %}}
+{{% notice color="red" title="**Was es bei der Nutzung von WhatsApp zu berücksichtigen gilt**" %}}
 ## WhatsApp datenschutzkonform verwenden
 
 Um beim Einsatz von WhatsApp den datenschutzrechtlichen Anforderungen nachzukommen, müssen Webseitenbetreiber diese Pflichten erfüllen:
