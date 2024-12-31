@@ -85,12 +85,12 @@ Rechteckiges Logo (`.jpg` Datei)
 Die bereitgestellte `.jpg` Datei habe ich dann mal bearbeitet und in zwei Teile zerlegt:
 
 1. ZL-Logo und
-![Rund, ausgeschnitten aus eckiger .jpg Datei](/Untitled.png)
+![Rund, ausgeschnitten aus eckiger .jpg Datei](/half_logo.png)
 
 2. Schriftug "Zajac & Leroy Praxis für Physiotherapie)
-![ZLP Schriftzug](/zlp-text.png)
+![ZLP Schriftzug](/zlp-text2.png)
 
-Im Darkmode (Auswahl "dunkel“ unten links im Menü) ist der Text „Praxis für Physiotherapie“ kaum lesbar. Dies ist vernachlässigbar, da er, wenn überhaupt, oben links im Menü verwendet werden würde.
+Im Darkmode (Auswahl "dunkel“ unten links im Menü) ist der weiße Hintergrund der Bilder ein absolutes No-Go. Dies ist bei diesem Theme vernachlässigbar, da sie, wenn überhaupt, oben links im Menü verwendet werden würden (habe die CSS Dateien so angepasst, so dass der Menübereich in beiden Modi weiß dargestellt wird).
 
 ### Ergänzendes Textmaterial
 
@@ -101,16 +101,13 @@ Im Darkmode (Auswahl "dunkel“ unten links im Menü) ist der Text „Praxis fü
 
 Handelt es sich bei ***Zajac & Leroy Physio***, sofern dies überhaupt die richtige Namensgebung des Unternehmens ist, um ein/e:
 
-- Einzelunternehmen; aka Personengesellschft (Keine Gewerbeanmeldung, keine Pflichtmitgliedschaft bei der HWK/IHK)
-- GbR; siehe Einzelzelunternehmen
-- Partnerschaftsgesellschaft; siehe Einzelzelunternehmen
-- GmbH, aka Kapitalgesellschaft (Gewerbeanmeldung und Pflichtmitgliedschaft bei der HWK/IHK von nöten)
-- Unternehmensgesellschaft; siehe GmbH
+- Personengesellschaft (Einzelunternehmen, GbR, KG, OHG, PartG, StGes)
+- Kapitalgesellschaft (AG, SE, GmbH, KGaA)
 
-Warum frage ich danach - nun es ist eine wichtige Information für die rechtlich korrekte Gestalltung des Impressums!
+Warum frage ich danach --- nun es ist eine wichtige Information für die rechtlich korrekte Gestalltung des Impressums!
 
-  - bei dem derzeitigen Impressum habe ich **sehr viele Fragezeichen, die um meinen Kopf herumkreisen**
-  - eure derzeitige Datenschutzerklärung weist eklatante Lücken auf, siehe weiter unten in dieser wissenschaftlichen Abhandlung
+- bei dem Impressum auf https://zl-physio.de habe ich **sehr viele Fragezeichen, die um meinen Kopf herumkreisen**
+- eure derzeitige Datenschutzerklärung weist eklatante Lücken auf, siehe weiter unten in dieser wissenschaftlichen Abhandlung
 
 ### Frage zur Unternehmenskultur
 
@@ -131,13 +128,14 @@ Warum herrscht eine ausgeprägte Abneigung gegen das zeitgemäße, wenn auch ang
 {{% notice color="orange" title="**Aktuelle Situation E-Mail**" %}}
 Meiner Aufmerksamkeit ist nicht entgangen, dass gegenwärtig mit massivem Spamaufkommen im digitalen Posteingang gekämpft wird. Ist netcup in diesem Zusammenhang einfach nur schlecht, oder wurde die digitale Dienstleistung kundenseitig nur nachlässig konfiguriert?
 
-Wenn das Problem bei netcup selbst liegt, empfehle ich, den Dienstanbieter [mailbox.org](https://mailbox.org/de/business-mail#geschaeftskundentarife) zu nutzen. Aus jahrelanger, persönlicher Erfahrung kann ich diesbezüglich ganz klar eine Empfehlung aussprechen.
+Wenn das Problem bei netcup selbst liegt, empfehle ich, den Diensteanbieter [mailbox.org](https://mailbox.org/de/business-mail#geschaeftskundentarife) zu nutzen. Aus jahrelanger, persönlicher Erfahrung kann ich diesbezüglich ganz klar eine Empfehlung aussprechen.
 {{% /notice %}}
 
 Wo ich schon beim Thema ***E-Mail*** bin, möchte ich noch folgende Fragen, Anregungen und **essentiell wichtigen** Dinge loswerden:
 
 - Wurde ein Vertrag zur Auftragsverarbeitung (**AVV**) mit netcup geschlossen (**E-Mail-Paket**)? **Wenn nicht, [hier](https://helpcenter.netcup.com/de/wiki/general/avv/) unbedingt nachholen (kostenlos)!**
 - Es **muss zwingend** eine rechtskonforme E-Mail Signatur bei jeglicher Kommunikation über diese Medium verwendet werden!
+- Es ist zu klären, ob und wenn ja, welche **Aufbewahrungsfristen** einzuhalten sind --- es handelt sich bei E-Mails um **geschäftliche Dokumente**
 
 {{% notice color="red" title="**Anforderungen an geschäftliche E-Mails**" %}}
 Das Wichtigste in Kürze
@@ -156,12 +154,12 @@ Quelle: https://www.e-recht24.de/datenschutz/11342-geschaeftliche-e-mails-signat
 - Verwaltung nutzt die Adresse **info@zl-physio.de**
 - Mitarbeiter die über eine eigene Unternehmens-E-Mail-Adresse verfügen nutzen **vorname@zl-physio.de**
 - Impressum und Datenschutzerklärung beinhalten die Adresse **kontakt@zl-physio.de**
-  - Es ist **äußerst wichtig**, dass auf E-Mails die an die Adresse **kontakt@zl-physio.de** gerichtet sind **SEHR zügig reagiert wird**. Diese E-Mails beinhalten meist **offizielle/behördliche Informationen/Anfragen** bei denen **unverzügliches Handeln erforderlich ist** *(Hatten wir noch nie! --- Dafür ist im Handumdrehen gesorgt! Ein Blick in die Rezensionen, die [hier](https://maps.app.goo.gl/ZbgnQ6tthQN2DTHr6) zu finden sind und schon ist eine Person gefunden, die als potentieller Auslöser einer solchen Situation dienen kann)*
+  - Es ist **äußerst wichtig**, dass auf E-Mails die an die Adresse **kontakt@zl-physio.de** gerichtet sind **SEHR zügig reagiert wird**. Diese E-Mails beinhalten meist **offizielle/behördliche Informationen/Anfragen** bei denen **unverzügliches Handeln erforderlich ist** *(Hatten wir noch nie! --- Dafür ist im Handumdrehen gesorgt! Ein Blick in die Rezensionen, die [hier](https://maps.app.goo.gl/ZbgnQ6tthQN2DTHr6) zu finden sind und schon ist eine Person (**Regina Esser**) gefunden, die als potentieller Auslöser einer solchen Situation dienen kann)*
   - {{% notice color="orange" title="**diese Adresse (***kontakt@zl-physio.de***) sollte nach Möglichkeit eine Alias-Adresse sein, die hinter dem Konto der Geschäftsführung oder der Verwaltung angesiedelt ist, um **unverzügliches Reagieren zu gewährleisten****" %}}
 {{% /notice %}}
 
 {{% notice color="orange" title="**Kommunikationsmedium WhatsApp**" %}}
-Auch ist meiner Aufmerksamkeit nicht entgangen, dass einer der genutzten Kommunikationskanäle ***WhatsApp*** ist. *Leider ist dessen Marktanteil viel zu Hoch, was der Situation geschuldet ist, dass es in diesem Bereich eine Vorreiterrolle übernommen hat*.
+Auch ist meiner Aufmerksamkeit nicht entgangen, dass einer der genutzten Kommunikationskanäle ***WhatsApp*** ist. **Anmerkung der Redaktion:** *Leider ist dessen Marktanteil viel zu Hoch, was der Situation geschuldet ist, dass es in diesem Bereich eine Vorreiterrolle übernommen hat*.
 
 Nachteile:
 
@@ -220,7 +218,7 @@ Das Webhosting wird derzeit über **netcup** abgewickelt, hierzu benötigte ich 
   - einen vServer?
   - oder ein ordinäres Webhosting Paket?
 - wer wird die Daten für die Website an das Ziel transferieren (**initial und künftige Updates**)?
-  - sollte dies meine Aufgabe sein, dann benötige ich Zugriffsrechte auf diesen Bereich!
+  - sollte dies meine Aufgabe sein, dann benötige ich Zugriffsrechte auf diesen Bereich und die Information wie der Zugriff erfolgt (**SSH**, **(S)FTP**, **WebUI**)!
   - andernfalls, wem lasse ich die Daten zukommen?
 
 #### Website Layouts
@@ -229,7 +227,7 @@ Es stehen inzwischen vier Layoutvorschläge zur Auswahl. Leider ist es bei manch
 
 - https://fhmbrg.github.io/zlp (Theme: ***PaperMod***); voll funktionsfähig **ohne verknüpfte Domain**
 - https://fhmbrg.github.io/zlp2 (Theme: ***GeekDoc***); voll funktionsfähig **ohne verknüpfte Domain**
-- https://fhmbrg.github.io/zlp3 ([^1] (Theme: ***Hugobricks***); **ohne verknüpfte Domain unbrauchbar**; **derzeit kein Darkmode Support, Feature wurde auf [GitHub requested](https://github.com/jhvanderschee/hugobricks/issues/77)!**
+- https://fhmbrg.github.io/zlp3 **[^1]** (Theme: ***Hugobricks***); **ohne verknüpfte Domain unbrauchbar**; **derzeit kein Darkmode Support, Feature wurde auf [GitHub requested](https://github.com/jhvanderschee/hugobricks/issues/77)!**
 - https://fhmbrg.github.io/zlp4 (Theme: ***relearn***); bis auf folgende Einschränkungen (Bilder auf Seite *Team* und Link zur Startseite wenn auf das Logo oben links geklickt wird) voll funktionsfähig
 
 #### Rechtliche Pflichtangaben
@@ -252,19 +250,21 @@ Es sollte der Tarif ***"Business"*** genutzt werden, um die notwendigen Themenge
 
 ## Das Wichtigste zusammengefasst
 
-- {{% badge color="red" %}}**Wichtig!**{{% /badge %}} **AVV bzgl. E-Mail bei netcup erstellen**[^2]
-- {{% badge color="red" %}}**Wichtig!**{{% /badge %}} **AVV bzgl. Webhosting bei netcup erstellen**[^2]
-- {{% badge color="red" %}}**Wichtig!**{{% /badge %}} Rechtssichere E-Mail Signatur **bei allen geschäftlich verwendeten** E-Mail Konten einrichten **und verwenden**[^3] - **Beispiel**[^4]
-- {{% badge color="red" %}}**Wichtig!**{{% /badge %}} **Rechtssicheres Impressum auf der Website hinterlegen**[^3]
+- {{% badge color="red" %}}**Wichtig!**{{% /badge %}} **AVV bzgl. E-Mail bei netcup erstellen[^2]**
+- {{% badge color="red" %}}**Wichtig!**{{% /badge %}} **AVV bzgl. Webhosting bei netcup erstellen[^2]**
+- {{% badge color="red" %}}**Wichtig!**{{% /badge %}} Rechtssichere E-Mail Signatur **bei allen geschäftlich verwendeten** E-Mail Konten einrichten **und verwenden[^3]** - **Beispiel[^4]**
+- {{% badge color="red" %}}**Wichtig!**{{% /badge %}} **Rechtssicheres Impressum auf der Website hinterlegen[^3]**
 - {{% badge color="red" %}}**Wichtig!**{{% /badge %}} **Rechtssichere Datenschutzerklärung, die alle notwendigen Punkte umfasst[^3] , auf der Website hinterlegen**
-- {{% badge style="red" %}}**Die zuvor erwähnten Ratschläge beherzigen, kann schnell teuer werden!**{{% /badge %}}
+- {{% badge color="red" %}}**Wichtig!**{{% /badge %}} **Aufbewahrungsfristen von E-Mails im Auge behalten[^5]**
+- {{% badge color="red" %}}**Die zuvor erwähnten Ratschläge beherzigen, andernfalls kann es sehr schnell sehr teuer werden kann!**{{% /badge %}}
 - {{% badge color="orange" %}}**ASAP!**{{% /badge %}} Daten (**Öffnungszeiten**) **bei Google Places aktualisieren**
 - {{% badge color="orange" %}}**ASAP!**{{% /badge %}} Das benötigte Material **(Texte und Bilder)** bitte **in digitaler Form bereitstellen**
 - {{% badge color="orange" %}}**ASAP!**{{% /badge %}} **Verwendete Dokumente** *(Stichwort "gedruckte Terminübersicht und abgeschnittener Text")* **auf Vordermann bringen**
+- {{% badge color="orange" %}}**ASAP!**{{% /badge %}} Zugangsdaten und -art für den Transfer der Website, **sofern dies durch mich erfolgen soll**
 - bei Fragen <i class="fa-solid fa-phone"></i>
 
 [^1]: Layout #4 benötigt, um es korrekt via GitHub Pages darstellen zu können, eine im Repository hinterlegte (Sub-)Domain - **ohne werden die Cascading Style Sheets (CSS) nicht geladen!** Werde dies zu gegebener Zeit umsetzen und die URL bekanntgeben.
-[^2]: [Hier](https://helpcenter.netcup.com/de/wiki/general/avv/) Verträge zur Auftragsverbreitung (**Webhosting und E-Mail**) bei **netcup** abschließen
+[^2]: [**Hier**](https://helpcenter.netcup.com/de/wiki/general/avv/) Verträge zur Auftragsverbreitung (**Webhosting und E-Mail**) bei **netcup** abschließen
 [^3]: Ernsthaft darüber nachdenken [**diesen**](https://checkout.e-recht24.de/cart?product=website-business-annually&tracking_key=Acquisition_Navigation_Free_SubNav_Website_AcquisitionNavigationFreeWebsiteButton20240701_Button_JetztMitgliedWerden-direct_anders_NA_QdatenschutzQ13134dsgvovorgabenfuerwebseiten.html&hide-plans=1) Dienstleistungsvertrag abzuschließen. Damit sind die Themen Impressum, Datenschutzerklärung inkl. geschäftlicher Nutzung von WhatsApp sowie E-Mail Signatur in trockenen Tüchern
 [^4]: \-\-\
 Mit freundlichen Grüßen\
@@ -281,3 +281,5 @@ E-Mail: info@zl-physio.de\
 Internet: https://zl-physio.de\
 \
 Geschäftsführer: Zdobek Zajac & Michael Leroy
+
+[^5]: [**Hier**](https://www.e-recht24.de/datenschutz/7197-e-mail-aufbewahrungspflicht-dsgvo.html#) ist das Wichtigste über Aufbewahrungsfisten in Bezug auf E-Mails zu lesen
