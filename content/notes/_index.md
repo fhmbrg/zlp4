@@ -74,29 +74,23 @@ Bei Google Places hat man sich mal die Mühe gemacht die *Innereien* des Unterne
 
 #### Entscheidung, ob und wenn ja, welches Logo auf der Website eingebunden werden soll
 
-Gegenwärtig liegen mir die folgenden Daten vor:
+Gegenwärtig liegen mir die folgenden Daten vor (von Sandra freundlicherweise, im Schweiße ihres Angesichts, via E-Mail bereitgestellt):
 
-Eckiges Logo, `.png` Datei via E-Mail zugesendet:
+Rechteckiges Logo (`.png` Datei)
 ![Eckig .png Datei](/Logo1.png)
 
-Eckiges Logo, `.jpg` Datei via E-Mail zugesendet:
+Rechteckiges Logo (`.jpg` Datei)
 ![Eckig .jpg Datei](/Logo.jpg)
 
-Laienhaft selbst geklöppelt, man beachte den kaum zu erkennenden Schriftzug ***Praxis für Physiotherapie*** (links oben wo das Menü dargestellt wird), bzw. hier oberhalb dieses Textes, wenn der Modus ***dunkel*** ausgewählt wurde (Modus zwischen ***hell*** und ***dunkel*** wechseln!
+Die bereitgestellte `.jpg` Datei habe ich dann mal bearbeitet und in zwei Teile zerlegt:
 
-![Selbst geklöppelt](/logo_rectangular.png)
-
-Rundes Logo, ausgeschnitten aus der eckigen `.jpg` Datei:
+1. ZL-Logo und
 ![Rund, ausgeschnitten aus eckiger .jpg Datei](/Untitled.png)
 
-Die ultimative beste Lösung würde Bildmaterial als Vectorgrafik, `.svg`, darstellen! Vorteile:
+2. Schriftug "Zajac & Leroy Praxis für Physiotherapie)
+![ZLP Schriftzug](/zlp-text.png)
 
-- transparenter Hintergrund
-- geringe Dateigröße => schnellere Ladazeit
-
-Die zweitbeste Lösung wäre Bildmaterial als `.png` Datei mit transparentem Hintergrund.
-
-Warum ist ein transparenter Hintergrund so wichtig? Wählt links, ganze unten im Menü, die Option **dunkel** aus und schaut euch die ersten beiden Bilder nochmals an. Sieht bescheiden aus, korrekt!
+Im Darkmode (Auswahl "dunkel“ unten links im Menü) ist der Text „Praxis für Physiotherapie“ kaum lesbar. Dies ist vernachlässigbar, da er, wenn überhaupt, oben links im Menü verwendet werden würde.
 
 ### Ergänzendes Textmaterial
 
