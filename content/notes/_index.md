@@ -72,6 +72,32 @@ Beispiele können mit Hilfe der Bildersuche der bevorzugten Suchmaschine betrach
 
 Bei Google Places hat man sich mal die Mühe gemacht die *Innereien* des Unternehmens zu präsentieren, gut gemacht! Selbiges, in aktueller Form, stelle ich mir auch für die Website vor - zeitgleich die Bilder bei Google Places aktualisieren!
 
+#### Entscheidung, ob und wenn ja, welches Logo auf der Website eingebunden werden soll
+
+Gegenwärtig liegen mir die folgenden Daten vor:
+
+Eckiges Logo, `.png` Datei via E-Mail zugesendet:
+![Eckig .png Datei](/Logo1.png)
+
+Eckiges Logo, `.jpg` Datei via E-Mail zugesendet:
+![Eckig .jpg Datei](/Logo.jpg)
+
+Laienhaft selbst geklöppelt, man beachte den kaum zu erkennenden Schriftzug ***Praxis für Physiotherapie*** (links oben wo das Menü dargestellt wird), bzw. hier oberhalb dieses Textes, wenn der Modus ***dunkel*** ausgewählt wurde (Modus zwischen ***hell*** und ***dunkel*** wechseln!
+
+![Selbst geklöppelt](/logo_rectangular.png)
+
+Rundes Logo, ausgeschnitten aus der eckigen `.jpg` Datei:
+![Rund, ausgeschnitten aus eckiger .jpg Datei](/Untitled.png)
+
+Die ultimative beste Lösung würde Bildmaterial als Vectorgrafik, `.svg`, darstellen! Vorteile:
+
+- transparenter Hintergrund
+- geringe Dateigröße => schnellere Ladazeit
+
+Die zweitbeste Lösung wäre Bildmaterial als `.png` Datei mit transparentem Hintergrund.
+
+Warum ist ein transparenter Hintergrund so wichtig? Wählt links, ganze unten im Menü, die Option **dunkel** aus und schaut euch die ersten beiden Bilder nochmals an. Sieht bescheiden aus, korrekt!
+
 ### Ergänzendes Textmaterial
 
 - Regelung/en Terminabsage! **Bitte die Texte der Sektion [Termine](/kontakt/termine/index.html) auf dieser Demo-Website einsehen und mir Ergänzungen/Anpassungen zur Verfügung stellen!**
@@ -212,8 +238,6 @@ Es stehen inzwischen vier Layoutvorschläge zur Auswahl. Leider ist es bei manch
 - https://fhmbrg.github.io/zlp3 ([^1] (Theme: ***Hugobricks***); **ohne verknüpfte Domain unbrauchbar**; **derzeit kein Darkmode Support, Feature wurde auf [GitHub requested](https://github.com/jhvanderschee/hugobricks/issues/77)!**
 - https://fhmbrg.github.io/zlp4 (Theme: ***relearn***); bis auf folgende Einschränkungen (Bilder auf Seite *Team* und Link zur Startseite wenn auf das Logo oben links geklickt wird) voll funktionsfähig
 
-[^1]: Layout #4 benötigt, um es korrekt via GitHub Pages darstellen zu können, eine im Repository hinterlegte (Sub-)Domain - **ohne werden die Cascading Style Sheets (CSS) nicht geladen!** Werde dies zu gegebener Zeit umsetzen und die URL bekanntgeben.
-
 #### Rechtliche Pflichtangaben
 
 ##### Daten zur Erstellung eines ordnungsgemäßen Impressums
@@ -245,6 +269,7 @@ Es sollte der Tarif ***"Business"*** genutzt werden, um die notwendigen Themenge
 - {{% badge color="orange" %}}**ASAP!**{{% /badge %}} **Verwendete Dokumente** *(Stichwort "gedruckte Terminübersicht und abgeschnittener Text")* **auf Vordermann bringen**
 - bei Fragen <i class="fa-solid fa-phone"></i>
 
+[^1]: Layout #4 benötigt, um es korrekt via GitHub Pages darstellen zu können, eine im Repository hinterlegte (Sub-)Domain - **ohne werden die Cascading Style Sheets (CSS) nicht geladen!** Werde dies zu gegebener Zeit umsetzen und die URL bekanntgeben.
 [^2]: [Hier](https://helpcenter.netcup.com/de/wiki/general/avv/) Verträge zur Auftragsverbreitung (**Webhosting und E-Mail**) bei **netcup** abschließen
 [^3]: Ernsthaft darüber nachdenken [**diesen**](https://checkout.e-recht24.de/cart?product=website-business-annually&tracking_key=Acquisition_Navigation_Free_SubNav_Website_AcquisitionNavigationFreeWebsiteButton20240701_Button_JetztMitgliedWerden-direct_anders_NA_QdatenschutzQ13134dsgvovorgabenfuerwebseiten.html&hide-plans=1) Dienstleistungsvertrag abzuschließen. Damit sind die Themen Impressum, Datenschutzerklärung inkl. geschäftlicher Nutzung von WhatsApp sowie E-Mail Signatur in trockenen Tüchern
 [^4]: \-\-\

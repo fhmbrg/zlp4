@@ -34,7 +34,7 @@
   --MENU-SEARCH-color: rgba(64, 64, 64, 1); /* text and icon color of search box */
   --MENU-SEARCH-BG-color: rgba(255, 255, 255, 1); /* background color of search box */
   --MENU-SEARCH-BORDER-color: rgba(210, 210, 210, 0.66); /* border color of search box */
-  --MENU-SECTIONS-BG-color: rgba( 224, 224, 224, .75 ); /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
+  --MENU-SECTIONS-BG-color: rgb(255,255,255); /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
   --MENU-SECTIONS-ACTIVE-BG-color: transparent; /* background color of the active menu section */
   --MENU-SECTIONS-LINK-color: rgba( 39, 39, 39, 1 ); /* link color of menu topics */
   --MENU-SECTIONS-LINK-HOVER-color: rgba( 39, 39, 39, 1 ); /* hoverd link color of menu topics */
@@ -49,10 +49,4 @@
   --BOX-BG-color: rgba(255, 255, 255, 0.833); /* background color of colored boxes */
   --BOX-TEXT-color: rgba(16, 16, 16, 1); /* text color of colored box content */
   --BOX-GREY-color: rgba(210, 210, 210, 1); /* background color of grey boxes */
-
-/* Stock dark theme color definition!!! */
-/*  --BOX-CAPTION-color: rgba( 240, 240, 240, 1 ); /* text color of colored box titles */
-/*  --BOX-BG-color: rgba( 20, 20, 20, 1 ); /* background color of colored boxes */
-/*  --BOX-TEXT-color: rgba( 224, 224, 224, 1 ); /* text color of colored box content */
-/*  --BOX-GREY-color: rgba( 71, 71, 71, 1 ); /* background color of grey boxes */
 }
