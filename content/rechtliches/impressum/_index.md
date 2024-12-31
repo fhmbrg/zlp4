@@ -24,11 +24,13 @@ DE999999999
 
 ## Aufsichtsbehörde
 
-Musterbehörde Musterstadt\
-Musterweg 10\
-90210 Musterstadt
+Gesundheitsamt\
+Gesundheitsförderung\
+Valkenburger Straße 45\
+52525 Heinsberg
 
-<a href="https://www.meine-aufsichtsbehörde.de/" target="_blank" rel="noopener noreferrer">www.meine-aufsichtsbehörde.de</a>
+
+<a href="https://service.kreis-heinsberg.de/detail/-/vr-bis-detail/einrichtung/7253/show/" target="_blank" rel="noopener noreferrer">https://service.kreis-heinsberg.de/detail/-/vr-bis-detail/einrichtung/7253/show/</a>
 
 ## Berufsbezeichnung und berufsrechtliche Regelungen
 
@@ -43,20 +45,8 @@ Die Niederlande
 
 Es gelten folgende berufsrechtliche Regelungen:
 
-**Berufsrechtliche Regelung 1**\
-einsehbar unter: <a href="https://links-zur-beruflichen-regelung-1" target="_blank" rel="noopener noreferrer">https://links-zur-beruflichen-regelung-1</a>
-
-**Berufsrechtliche Regelung 2**\
-einsehbar unter: <a href="https://links-zur-beruflichen-regelung-2" target="_blank" rel="noopener noreferrer">https://links-zur-beruflichen-regelung-2</a>
-
-**Berufsrechtliche Regelung 3**\
-einsehbar unter: <a href="https://links-zur-beruflichen-regelung-3" target="_blank" rel="noopener noreferrer">https://links-zur-beruflichen-regelung-3</a>
-
-**Berufsrechtliche Regelung 4**\
-einsehbar unter: <a href="https://links-zur-beruflichen-regelung-4" target="_blank" rel="noopener noreferrer">https://links-zur-beruflichen-regelung-4</a>
-
-**Berufsrechtliche Regelung 5**\
-einsehbar unter: <a href="https://links-zur-beruflichen-regelung-5" target="_blank" rel="noopener noreferrer">https://links-zur-beruflichen-regelung-5</a>
+Geltendes Berufsrecht: Gesetz über die Berufe in der Physiotherapie (Masseur- und Physiotherapeutengesetz – MPhG)\
+einsehbar unter: <a href="https://www.gesetze-im-internet.de/mphg/BJNR108400994.html" target="_blank" rel="noopener noreferrer">https://www.gesetze-im-internet.de/mphg/BJNR108400994.html</a>
 
 ## Angaben zur Berufshaftpflichtversicherung
 
