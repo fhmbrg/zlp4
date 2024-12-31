@@ -22,7 +22,7 @@ Als Beispiel sei die Sektion ***Leistungen*** genannt. Dort steht (Auszug der ge
 ## Rant #2
 
 {{% notice style="red" title="**Fehlerhafte/veraltete Informationen bei Google Places**" %}}
-Jemand aus der Geschäftsführung (Micha?) hat sich überlegt, dass es von Vorteil ist das Unternehmen ***Zajac & Leroy Physio*** inkl. Öffnungszeiten bei Google Places zu hinterlegen - gute Idee! Leider sind die dortigen Daten nicht mehr aktuell, denn dort ist zu lesen, dass die Praxis wie folgt geöffnet ist:
+Jemand aus der Geschäftsführung (Micha?) hat sich überlegt, dass es von Vorteil sei das Unternehmen ***Zajac & Leroy Physio*** inkl. Öffnungszeiten bei Google Places zu hinterlegen - gute Idee! Leider sind die dortigen Daten nicht mehr aktuell, denn dort ist zu lesen, dass die Praxis wie folgt geöffnet ist:
 
 > Montag 08:00 – **20:00**\
 > Dienstag bis Donnerstag 08:00 – **18:00**\
@@ -36,14 +36,9 @@ Laut der mir vorliegenden Information lauten diese jedoch wie folgt:
 Es ist daher wichtig, diese Daten auf den neuesten Stand zu bringen!
 {{% /notice %}}
 
-## Rant #3
-
-{{% notice style="red" title="**Mehr Interaktion mit den Personen, die euch auf Google Places bewerten!**" %}}
-DUMMY
-{{% /notice %}}
 ## tl;dr
 
-Die elementarsten Baustellen, von denen ich Kenntnis habe sind [**hier**](/notes/#das-wichtigste-zusammmengefasst) zusammengefasst! **Dennoch ist es ratsam, den gesamten Text zu lesen.**
+Die elementarsten Baustellen, von denen ich Kenntnis habe, sind [**hier**](/notes/#das-wichtigste-zusammengefasst) zusammengefasst! **Dennoch ist es ratsam, den gesamten Text zu lesen.**
 
 ## Benötigte Bilder, Texte, sonstige Informationen
 
@@ -73,10 +68,29 @@ Beispiele können mit Hilfe der Bildersuche der bevorzugten Suchmaschine betrach
 
 **Ein guter Tag für das Fotoshooting scheint freitags zu sein, siehe [Öffnungszeiten](/kontakt/oeffnungszeiten). Zum einen ist das Unternehmen für Kunden an diesem Tag ab 12:00 Uhr geschlossen und zum anderen stehen der komplette Samstag wie auch Sonntag zur Verfügung ;-)**
 
+#### Räumlichkeiten
+
+Bei Google Places hat man sich mal die Mühe gemacht die *Innereien* des Unternehmens zu präsentieren, gut gemacht! Selbiges, in aktueller Form, stelle ich mir auch für die Website vor - zeitgleich die Bilder bei Google Places aktualisieren!
+
 ### Ergänzendes Textmaterial
 
 - Regelung/en Terminabsage! **Bitte die Texte der Sektion [Termine](/kontakt/termine/index.html) auf dieser Demo-Website einsehen und mir Ergänzungen/Anpassungen zur Verfügung stellen!**
-  - Folgen der Nichteinhaltung? Konnte nur, {{% badge style="orange" %}}**Stand 5. Dezember 2024 8:36:14 Uhr**{{% /badge %}}, einen Auszug des Textes auf einer meiner gedruckten Terminübersichten sehen; **dies ist auch eine Erinnerung, diesen Mangel in dem zum Druck genutzten Dokument zu beheben!** Ergänzungen/Anpassungen? - **richtig** <i class="fa-solid fa-hands-clapping"></i> - mir digital zur Verfügung stellen!
+  - Folgen der Nichteinhaltung? Konnte nur, {{% badge style="orange" %}}**Stand 5. Dezember 2024 8:36:14 Uhr**{{% /badge %}}, einen Auszug des Textes auf einer meiner gedruckten Terminübersichten sehen; **dies ist gleichzeitig auch eine Erinnerung, diesen Mangel in dem zum Druck genutzten Dokument zu beheben!** Ergänzungen/Anpassungen? - **richtig** <i class="fa-solid fa-hands-clapping"></i> - mir digital zur Verfügung stellen!
+
+### Frage zur Rechtsform des Unternehmens
+
+Handelt es sich bei ***Zajac & Leroy Physio***, sofern dies überhaupt die richtige Namensgebung des Unternehmens ist, um ein/e:
+
+- Einzelunternehmen; aka Personengesellschft (Keine Gewerbeanmeldung, keine Pflichtmitgliedschaft bei der HWK/IHK)
+- GbR; siehe Einzelzelunternehmen
+- Partnerschaftsgesellschaft; siehe Einzelzelunternehmen
+- GmbH, aka Kapitalgesellschaft (Gewerbeanmeldung und Pflichtmitgliedschaft bei der HWK/IHK von nöten)
+- Unternehmensgesellschaft; siehe GmbH
+
+Warum frage ich danach - nun es ist eine wichtige Information für die rechtlich korrekte Gestalltung des Impressums!
+
+  - bei dem derzeitigen Impressum habe ich **sehr viele Fragezeichen, die um meinen Kopf herumkreisen**
+  - eure derzeitige Datenschutzerklärung weist eklatante Lücken auf, siehe weiter unten in dieser wissenschaftlichen Abhandlung
 
 ### Frage zur Unternehmenskultur
 
@@ -179,7 +193,7 @@ Nachteile:
 
 Das Webhosting wird derzeit über **netcup** abgewickelt, hierzu benötigte ich folgende Informationen:
 
-- Auch hier die Frage, ob ein Vertrag zur Auftragsverarbeitung (**AVV**) mit netcup abgeschlossen wurde (**"Webhosting"-Paket**)?
+- Auch hier die Frage, ob ein Vertrag zur Auftragsverarbeitung (**AVV**) mit netcup geschlossen wurde (**Webhosting-Paket**)?
   - **wenn nicht, [hier](https://helpcenter.netcup.com/de/wiki/general/avv/) unbedingt nachholen (kostenlos!)!**
 - Handelt es sich hierbei um **(detaillierte Infos bitte)**:
   - einen Root-Server?
@@ -220,20 +234,20 @@ Es sollte der Tarif ***"Business"*** genutzt werden, um die notwendigen Themenge
 
 ## Das Wichtigste zusammengefasst
 
-- **AVV bzgl. E-Mail bei netcup erstellen**[^2]
-- **AVV bzgl. Webhosting bei netcup erstellen**[^2]
-- Rechtssichere E-Mail Signatur **bei allen geschäftlich verwendeten** E-Mail Konten einrichten **und** nutzen[^3] - **Beispiel**[^4]
-- **Rechtssicheres Impressum auf der Website hinterlegen**[^3]
-- **Rechtssichere Datenschutzerklärung, die alle notwendigen Punkte umfasst[^3] , auf der Website hinterlegen**
-- Daten (Öffnungszeiten) bei Google Places aktualisieren
+- {{% badge color="red" %}}**Wichtig!**{{% /badge %}} **AVV bzgl. E-Mail bei netcup erstellen**[^2]
+- {{% badge color="red" %}}**Wichtig!**{{% /badge %}} **AVV bzgl. Webhosting bei netcup erstellen**[^2]
+- {{% badge color="red" %}}**Wichtig!**{{% /badge %}} Rechtssichere E-Mail Signatur **bei allen geschäftlich verwendeten** E-Mail Konten einrichten **und verwenden**[^3] - **Beispiel**[^4]
+- {{% badge color="red" %}}**Wichtig!**{{% /badge %}} **Rechtssicheres Impressum auf der Website hinterlegen**[^3]
+- {{% badge color="red" %}}**Wichtig!**{{% /badge %}} **Rechtssichere Datenschutzerklärung, die alle notwendigen Punkte umfasst[^3] , auf der Website hinterlegen**
 - {{% badge style="red" %}}**Die zuvor erwähnten Ratschläge beherzigen, kann schnell teuer werden!**{{% /badge %}}
-- Das benötigte Material **(Texte und Bilder)** bitte **in digitaler Form bereitstellen**
-- **Verwendete Dokumente** *(Stichwort Terminübersicht und abgeschnittenem Text)* **auf Vordermann bringen**
+- {{% badge color="orange" %}}**ASAP!**{{% /badge %}} Daten (**Öffnungszeiten**) **bei Google Places aktualisieren**
+- {{% badge color="orange" %}}**ASAP!**{{% /badge %}} Das benötigte Material **(Texte und Bilder)** bitte **in digitaler Form bereitstellen**
+- {{% badge color="orange" %}}**ASAP!**{{% /badge %}} **Verwendete Dokumente** *(Stichwort Terminübersicht und abgeschnittener Text)* **auf Vordermann bringen**
 - bei Fragen <i class="fa-solid fa-phone"></i>
 
 [^2]: [Hier](https://helpcenter.netcup.com/de/wiki/general/avv/) Verträge zur Auftragsverbreitung (**Webhosting und E-Mail**) bei **netcup** abschließen
 [^3]: Ernsthaft darüber nachdenken [**diesen**](https://checkout.e-recht24.de/cart?product=website-business-annually&tracking_key=Acquisition_Navigation_Free_SubNav_Website_AcquisitionNavigationFreeWebsiteButton20240701_Button_JetztMitgliedWerden-direct_anders_NA_QdatenschutzQ13134dsgvovorgabenfuerwebseiten.html&hide-plans=1) Dienstleistungsvertrag abzuschließen. Damit sind die Themen Impressum, Datenschutzerklärung inkl. WhatsApp und E-Mail Signatur in trockenen Tüchern
-[^4]: --\
+[^4]: \-\-\
 Mit freundlichen Grüßen\
 *Name der/des Mitarbeiter:in*\
 \
