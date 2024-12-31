@@ -242,11 +242,11 @@ Es sollte der Tarif ***"Business"*** genutzt werden, um die notwendigen Themenge
 - {{% badge style="red" %}}**Die zuvor erwähnten Ratschläge beherzigen, kann schnell teuer werden!**{{% /badge %}}
 - {{% badge color="orange" %}}**ASAP!**{{% /badge %}} Daten (**Öffnungszeiten**) **bei Google Places aktualisieren**
 - {{% badge color="orange" %}}**ASAP!**{{% /badge %}} Das benötigte Material **(Texte und Bilder)** bitte **in digitaler Form bereitstellen**
-- {{% badge color="orange" %}}**ASAP!**{{% /badge %}} **Verwendete Dokumente** *(Stichwort Terminübersicht und abgeschnittener Text)* **auf Vordermann bringen**
+- {{% badge color="orange" %}}**ASAP!**{{% /badge %}} **Verwendete Dokumente** *(Stichwort "gedruckte Terminübersicht und abgeschnittener Text")* **auf Vordermann bringen**
 - bei Fragen <i class="fa-solid fa-phone"></i>
 
 [^2]: [Hier](https://helpcenter.netcup.com/de/wiki/general/avv/) Verträge zur Auftragsverbreitung (**Webhosting und E-Mail**) bei **netcup** abschließen
-[^3]: Ernsthaft darüber nachdenken [**diesen**](https://checkout.e-recht24.de/cart?product=website-business-annually&tracking_key=Acquisition_Navigation_Free_SubNav_Website_AcquisitionNavigationFreeWebsiteButton20240701_Button_JetztMitgliedWerden-direct_anders_NA_QdatenschutzQ13134dsgvovorgabenfuerwebseiten.html&hide-plans=1) Dienstleistungsvertrag abzuschließen. Damit sind die Themen Impressum, Datenschutzerklärung inkl. WhatsApp und E-Mail Signatur in trockenen Tüchern
+[^3]: Ernsthaft darüber nachdenken [**diesen**](https://checkout.e-recht24.de/cart?product=website-business-annually&tracking_key=Acquisition_Navigation_Free_SubNav_Website_AcquisitionNavigationFreeWebsiteButton20240701_Button_JetztMitgliedWerden-direct_anders_NA_QdatenschutzQ13134dsgvovorgabenfuerwebseiten.html&hide-plans=1) Dienstleistungsvertrag abzuschließen. Damit sind die Themen Impressum, Datenschutzerklärung inkl. geschäftlicher Nutzung von WhatsApp sowie E-Mail Signatur in trockenen Tüchern
 [^4]: \-\-\
 Mit freundlichen Grüßen\
 *Name der/des Mitarbeiter:in*\
