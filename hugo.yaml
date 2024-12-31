@@ -34,6 +34,8 @@ params:
   author:
     email: info@zl-physio.de
     name: Zajac & Leroy Physio
+  disableGeneratorVersion: true                       # Disables meta data about the used theme
+  disableHugoGeneratorInject: true                    # Disables meta data about Hugo
 
 outputs:
   page:
