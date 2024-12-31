@@ -4,11 +4,16 @@ title: Impressum
 weight: 99
 ---
 
+## Inhaltlich Verantwortlicher (gemäß § 6 MDStV)
+
+- Michael Leroy, Bachlor Physiotherapie, Sportphysiotherapeut (DOSB anerkannt)
+- Zdobyslaw Zajac, Bachelor Physiotherapie
+
 Zajac & Leroy Physio\
 Mühlenstraße 2e\
 52382 Niederzier
 
-Handelsregister: HRB 999999\
+Handwerksregister: HRB 999999\
 Registergericht: Amtsgericht Musterstadt
 
 ## Kontakt
@@ -29,7 +34,6 @@ Gesundheitsförderung\
 Valkenburger Straße 45\
 52525 Heinsberg
 
-
 <a href="https://service.kreis-heinsberg.de/detail/-/vr-bis-detail/einrichtung/7253/show/" target="_blank" rel="noopener noreferrer">https://service.kreis-heinsberg.de/detail/-/vr-bis-detail/einrichtung/7253/show/</a>
 
 ## Berufsbezeichnung und berufsrechtliche Regelungen
@@ -45,15 +49,16 @@ Die Niederlande
 
 Es gelten folgende berufsrechtliche Regelungen:
 
-Geltendes Berufsrecht: Gesetz über die Berufe in der Physiotherapie (Masseur- und Physiotherapeutengesetz – MPhG)\
+**Geltendes Berufsrecht:**
+
+Gesetz über die Berufe in der Physiotherapie (Masseur- und Physiotherapeutengesetz – MPhG)\
 einsehbar unter: <a href="https://www.gesetze-im-internet.de/mphg/BJNR108400994.html" target="_blank" rel="noopener noreferrer">https://www.gesetze-im-internet.de/mphg/BJNR108400994.html</a>
 
 ## Angaben zur Berufshaftpflichtversicherung
 
-**Name und Sitz des Versicherers:**\
-Beispiel Versicherung AG\
-Musterweg 10\
-90210 Musterstadt
+### Berufsverband
+
+Bundesverband selbstständiger Physiotherapeuten - IFK e.V.
 
 **Geltungsraum der Versicherung:**\
 Deutschland
