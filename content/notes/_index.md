@@ -134,7 +134,7 @@ Wenn das Problem bei netcup selbst liegt, empfehle ich, den Diensteanbieter [mai
 Wo ich schon beim Thema ***E-Mail*** bin, möchte ich noch folgende Fragen, Anregungen und **essentiell wichtigen** Dinge loswerden:
 
 - Wurde ein Vertrag zur Auftragsverarbeitung (**AVV**) mit netcup geschlossen (**E-Mail-Paket**)? **Wenn nicht, [hier](https://helpcenter.netcup.com/de/wiki/general/avv/) unbedingt nachholen (kostenlos)!**
-- Es **muss zwingend** eine rechtskonforme E-Mail Signatur bei jeglicher Kommunikation über diese Medium verwendet werden!
+- Es **muss zwingend** eine rechtskonforme E-Mail Signatur bei jeglicher Kommunikation über dieses Medium verwendet werden!
 - Es ist zu klären, ob und wenn ja, welche **Aufbewahrungsfristen** einzuhalten sind --- es handelt sich bei E-Mails um **geschäftliche Dokumente**
 
 {{% notice color="red" title="**Anforderungen an geschäftliche E-Mails**" %}}
@@ -152,9 +152,9 @@ Quelle: https://www.e-recht24.de/datenschutz/11342-geschaeftliche-e-mails-signat
 **Beispiel:**
 
 - Verwaltung nutzt die Adresse **info@zl-physio.de**
-- Mitarbeiter die über eine eigene Unternehmens-E-Mail-Adresse verfügen nutzen **vorname@zl-physio.de**
+- Mitarbeiter, die über eine eigene Unternehmens-E-Mail-Adresse verfügen, nutzen **vorname@zl-physio.de**
 - Impressum und Datenschutzerklärung beinhalten die Adresse **kontakt@zl-physio.de**
-  - Es ist **äußerst wichtig**, dass auf E-Mails die an die Adresse **kontakt@zl-physio.de** gerichtet sind **SEHR zügig reagiert wird**. Diese E-Mails beinhalten meist **offizielle/behördliche Informationen/Anfragen** bei denen **unverzügliches Handeln erforderlich ist** *(Hatten wir noch nie! --- Dafür ist im Handumdrehen gesorgt! Ein Blick in die Rezensionen, die [hier](https://maps.app.goo.gl/ZbgnQ6tthQN2DTHr6) zu finden sind und schon ist eine Person (**Regina Esser**) gefunden, die als potentieller Auslöser einer solchen Situation dienen kann)*
+  - es ist **äußerst wichtig**, dass auf E-Mails die an die Adresse **kontakt@zl-physio.de** gerichtet sind **SEHR zügig reagiert wird**. Diese E-Mails beinhalten meist **offizielle/behördliche Informationen/Anfragen** bei denen **unverzügliches Handeln erforderlich ist** *(Hatten wir noch nie! --- Dafür ist im Handumdrehen gesorgt! Ein Blick in die Rezensionen, die [hier](https://maps.app.goo.gl/ZbgnQ6tthQN2DTHr6) zu finden sind und schon ist eine Person (**Regina Esser**) gefunden, die als potentieller Auslöser einer solchen Situation dienen kann)*
   - {{% notice color="orange" title="**diese Adresse (***kontakt@zl-physio.de***) sollte nach Möglichkeit eine Alias-Adresse sein, die hinter dem Konto der Geschäftsführung oder der Verwaltung angesiedelt ist, um **unverzügliches Reagieren zu gewährleisten****" %}}
 {{% /notice %}}
 
@@ -165,7 +165,7 @@ Nachteile:
 
 - Datenschutz lässt zu wünschen übrig!
 - der Griff zum Smartphone unterbricht den gegenwärtigen Workflow!
-- Die betriebliche Nutzung **muss zwingend** in der Datenschutzerklärung **als rechssicherer Text aufgeführt sein**! Dieser Passus ist **nicht** Teil der [Datenschutzerklärung](/rechtliches/datenschutz) dieser Demo-Website! Solcher Art rechtssicherer Texte werden in der kostenfreien Variante von [e-rech24.de](https://www.e-recht24.de/mitglieder/?source_id=Acquisition_Navigation_Free_Mainnav_Website_AcquisitionNavigationFreeWebsiteBanner20240701_Banner_3Toolbox#pricingtable) nicht berücksichtigt.
+- die betriebliche Nutzung **muss zwingend** in der Datenschutzerklärung **als rechssicherer Text aufgeführt sein**! Dieser Passus ist **nicht** Teil der [Datenschutzerklärung](/rechtliches/datenschutz) dieser Demo-Website! Solcher Art rechtssicherer Texte werden in der kostenfreien Variante von [e-rech24.de](https://www.e-recht24.de/mitglieder/?source_id=Acquisition_Navigation_Free_Mainnav_Website_AcquisitionNavigationFreeWebsiteBanner20240701_Banner_3Toolbox#pricingtable) nicht berücksichtigt.
 
 {{% notice color="red" title="**Was es bei der Nutzung von WhatsApp zu berücksichtigen gilt**" %}}
 ## WhatsApp datenschutzkonform verwenden
@@ -223,12 +223,12 @@ Das Webhosting wird derzeit über **netcup** abgewickelt, hierzu benötigte ich 
 
 #### Website Layouts
 
-Es stehen inzwischen vier Layoutvorschläge zur Auswahl. Leider ist es bei manchen der verwendeten Themes so, dass der Content **zwingend** im Root der Domain (z. B. zl-physio.de) **und nicht** in einem Unterverzeichnis (z. B. zl-physio.de/meine-geile-website) vorliegen **muss**! In solch einem Fall wird das/werden die Cascading Style Sheets (CSS) nicht geladen und die betrachtete Seite sieht - besch... - aus. Dies ließe sich durch Verknüpfung einer Domain umgehen und im Einzelfall temporär gemacht werden.
+Es stehen inzwischen vier Layoutvorschläge zur Auswahl und die Bereitstellung der Demos erfolgt über ***GitHub Pages***. Ohne verknüpfte Domain werden die Seiten über ein Unterverzeichnis (zlp, zlp2, zlp3 und zlp4) ausgeliefert und dies führt bei einigen Themes zu Problemen. So werden stellenweise die Bilder nicht dargestellt oder die Cascading Style Sheets (CSS) nicht geladen, die notwendig sind um die korrekte Darstellung zu realisieren. Den Umfang der Einschränkung/en habe ich hinter jedem der folgenden Designs vermerkt:
 
-- https://fhmbrg.github.io/zlp (Theme: ***PaperMod***); voll funktionsfähig **ohne verknüpfte Domain**
-- https://fhmbrg.github.io/zlp2 (Theme: ***GeekDoc***); voll funktionsfähig **ohne verknüpfte Domain**
-- https://fhmbrg.github.io/zlp3 **[^1]** (Theme: ***Hugobricks***); **ohne verknüpfte Domain unbrauchbar**; **derzeit kein Darkmode Support, Feature wurde auf [GitHub requested](https://github.com/jhvanderschee/hugobricks/issues/77)!**
-- https://fhmbrg.github.io/zlp4 (Theme: ***relearn***); bis auf folgende Einschränkungen (Bilder auf Seite *Team* und Link zur Startseite wenn auf das Logo oben links geklickt wird) voll funktionsfähig
+- https://fhmbrg.github.io/zlp (Theme: ***PaperMod***); **voll funktionsfähig ohne verknüpfte Domain**
+- https://fhmbrg.github.io/zlp2 (Theme: ***GeekDoc***); **voll funktionsfähig ohne verknüpfte Domain**
+- https://fhmbrg.github.io/zlp3 **[^1]** (Theme: ***Hugobricks***); **ohne verknüpfte Domain unbrauchbar**; **derzeit kein Darkmode Support, Feature wurde auf [GitHub requested](https://github.com/jhvanderschee/hugobricks/issues/77)!** Das **Styling der Team Seite gefällt mir sehr gut** weshalb ich es im nächsten Theme nachträglich implementiert habe!
+- https://fhmbrg.github.io/zlp4 (Theme: ***relearn***); bis auf folgende Einschränkungen (Bilder auf Seite *Team* und Link zur Startseite wenn auf das Logo oben links geklickt wird) voll funktionsfähig. Zwei Varianten der Unterseite ***Team***
 
 #### Rechtliche Pflichtangaben
 
