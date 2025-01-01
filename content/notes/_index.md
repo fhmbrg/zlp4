@@ -228,7 +228,7 @@ Es stehen inzwischen vier Layoutvorschläge zur Auswahl und die Bereitstellung d
 - https://fhmbrg.github.io/zlp (Theme: ***PaperMod***); **voll funktionsfähig ohne verknüpfte Domain**
 - https://fhmbrg.github.io/zlp2 (Theme: ***GeekDoc***); **voll funktionsfähig ohne verknüpfte Domain**
 - https://fhmbrg.github.io/zlp3 **[^1]** (Theme: ***Hugobricks***); **ohne verknüpfte Domain unbrauchbar**; **derzeit kein Darkmode Support, Feature wurde auf [GitHub requested](https://github.com/jhvanderschee/hugobricks/issues/77)!** Das **Styling der Team Seite gefällt mir sehr gut** weshalb ich es im nächsten Theme nachträglich implementiert habe!
-- https://fhmbrg.github.io/zlp4 (Theme: ***relearn***); bis auf folgende Einschränkungen (Bilder auf Seite *Team* und Link zur Startseite wenn auf das Logo oben links geklickt wird) voll funktionsfähig. Zwei Varianten der Unterseite ***Team***
+- https://fhmbrg.github.io/zlp4 (Theme: ***relearn***); bis auf folgende Einschränkungen (Bilder auf Seite *Team* und Link zur Startseite wenn auf das Logo oben links geklickt wird) voll funktionsfähig. Zwei Varianten der Unterseite ***Team*** [**nachträglich implementiere Version**](/zlp/team/) und [**Originalversion**](/zlp/team/backup-_index/)
 
 #### Rechtliche Pflichtangaben
 
@@ -238,7 +238,7 @@ Bitte das [Impressum](/rechtliches/impressum) dieser Demo-Website **aufmerksam d
 
 ##### Daten zur Erstellung einer ordnungsgemäßen Datenschutzerklärung
 
-Bitte die [Datenschutzerklärung](/rechtliches/datenschutz)) dieser Demo-Website **aufmerksam durchlesen**, die dortigen und Platzhalter gegen die tatsächlichen Informationen austauschen und mir zukommen lassen!
+Bitte die [Datenschutzerklärung](/rechtliches/datenschutz) dieser Demo-Website **aufmerksam durchlesen**, die dortigen und Platzhalter gegen die tatsächlichen Informationen austauschen und mir zukommen lassen!
 
 #### Absicherung via Dienstleistungsvertrag
 
