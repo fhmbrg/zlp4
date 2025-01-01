@@ -9,7 +9,7 @@
   function7:
   function8:
   function9:
-  image: /uploads/photos/avatars/male_profile_picture.png
+  image: male_profile_picture.png
 - name: Michael Leroy
   function0: Physiotherapeut Bc. (NL)
   function1: Manualtherapeut M.Sc. (NL)
@@ -21,7 +21,7 @@
   function7:
   function8:
   function9:
-  image: /uploads/photos/avatars/male_profile_picture.png
+  image: male_profile_picture.png
 - name: Jolante Zajac
   function0: Physiotherapeutin Bc. (PL)
   function1: Bobath-Therapeutin Kinder und Erwachsene
@@ -33,7 +33,7 @@
   function7:
   function8:
   function9:
-  image: /uploads/photos/avatars/female_profile_picture.png
+  image: female_profile_picture.png
 - name: Kai Witzel
   function0: Physiotherapeut Bc (NL)
   function1: Sportphysiotherapie Master (D)
@@ -45,7 +45,7 @@
   function7:
   function8:
   function9:
-  image: /uploads/photos/avatars/male_profile_picture.png
+  image: male_profile_picture.png
 - name: Burak Dokuyucu
   function0: Physiotherapeut Bc (NL)
   function1: Sportphysiotherapie Master (D)
@@ -57,7 +57,7 @@
   function7:
   function8:
   function9:
-  image: /uploads/photos/avatars/male_profile_picture.png
+  image: male_profile_picture.png
 - name: Moritz Weyergraf
   function0: Physiotherapeut Bc (NL)
   function1: Lymphdrainage
@@ -69,7 +69,7 @@
   function7:
   function8:
   function9:
-  image: /uploads/photos/avatars/male_profile_picture.png
+  image: male_profile_picture.png
 - name: Sandra Popp
   function0: Verwaltung
   function1:
@@ -83,7 +83,7 @@
   function9:
   description: 02428/9 058 509
   phone: 02428/9 058 509
-  image: /uploads/photos/avatars/female_profile_picture.png
+  image: female_profile_picture.png
 - name: Birgit Wolff
   function0: Verwaltung
   function1:
@@ -97,4 +97,4 @@
   function9:
   description: 02428/9 058 509
   phone: 02428/9 058 509
-  image: /uploads/photos/avatars/female_profile_picture.png
+  image: female_profile_picture.png
