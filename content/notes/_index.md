@@ -90,7 +90,7 @@ Die bereitgestellte `.jpg` Datei habe ich dann mal bearbeitet und in zwei Teile 
 2. Schriftug "Zajac & Leroy Praxis für Physiotherapie)
 ![ZLP Schriftzug](zlp-text2.png)
 
-Im Darkmode (Auswahl "dunkel“ unten links im Menü) ist der weiße Hintergrund der Bilder ein absolutes No-Go. Dies ist bei diesem Theme vernachlässigbar, da sie, wenn überhaupt, oben links im Menü verwendet werden würden (habe die CSS Dateien so angepasst, so dass der Menübereich in beiden Modi weiß dargestellt wird).
+Im Darkmode (Auswahl "dunkel“ unten links im Menü) ist der weiße Hintergrund der Bilder ein absolutes No-Go. Dies ist bei diesem Theme vernachlässigbar, da sie, wenn überhaupt, oben links im Menü verwendet werden würden (habe die CSS Dateien angepasst, so dass der Menübereich in beiden Modi weiß dargestellt wird).
 
 ### Ergänzendes Textmaterial
 
@@ -99,7 +99,7 @@ Im Darkmode (Auswahl "dunkel“ unten links im Menü) ist der weiße Hintergrund
 
 ### Frage zur Rechtsform des Unternehmens
 
-Handelt es sich bei ***Zajac & Leroy Physio***, sofern dies überhaupt die richtige Namensgebung des Unternehmens ist, um ein/e:
+Handelt es sich bei ***Zajac & Leroy Physio***, sofern dies überhaupt die richtige Namensgebung des Unternehmens ist, um eine:
 
 - Personengesellschaft (Einzelunternehmen, GbR, KG, OHG, PartG, StGes)
 - Kapitalgesellschaft (AG, SE, GmbH, KGaA)
@@ -107,11 +107,11 @@ Handelt es sich bei ***Zajac & Leroy Physio***, sofern dies überhaupt die richt
 Warum frage ich danach --- nun es ist eine wichtige Information für die rechtlich korrekte Gestalltung des Impressums!
 
 - bei dem Impressum auf https://zl-physio.de habe ich **sehr viele Fragezeichen, die um meinen Kopf herumkreisen**
-- eure derzeitige Datenschutzerklärung weist eklatante Lücken auf, siehe weiter unten in dieser wissenschaftlichen Abhandlung
+- eure derzeitige Datenschutzerklärung weist eklatante Lücken auf, siehe weiter unten
 
 ### Frage zur Unternehmenskultur
 
-Warum herrscht eine ausgeprägte Abneigung gegen das zeitgemäße, wenn auch angestaubte, Kommunikationsmedium ***E-Mail***? Wir befinden uns im 21. Jahrhundert und selbst Dinosaurier der Gattung ***Zajaxus-Leroyus-Praxikus*** sollten auf dieses Relikt, welches seine Geburtsstunde übrigens Ende der 1980er hatte, vermehrten setzen!
+Warum herrscht eine ausgeprägte Abneigung gegen das zeitgemäße, wenn auch angestaubte, Kommunikationsmedium ***E-Mail***? Wir befinden uns im 21. Jahrhundert und selbst Dinosaurier der Gattung ***Zajaxus-Leroyus-Praxikus*** sollten auf dieses Relikt, welches seine Geburtsstunde übrigens Ende der 1980er hatte, vermehrten setzen --- Bildungsauftrag erfüllt!
 
 **Vorteile:**
 
@@ -244,7 +244,7 @@ Bitte die [Datenschutzerklärung](/rechtliches/datenschutz) dieser Demo-Website 
 
 Es ist **dringend anzuraten** einen Servicevertrag mit [eRecht24](https://www.e-recht24.de/) abzuschließen **um stets auf der rechtlich sicheren Seite zu stehen!** Die Anforderungen an ein rechtssicheres Impressum sowie eine rechtssichere Datenschutzerklärung **unterliegen ständiger Aktualisierungen!** Formfehler können schnell ein nettes Sümmchen Geld kosten!
 
-Bei der Zahlungsweise ***jährlich*** fallen Kosten in Höhe von 360,- € pro Jahr an. Die ***monatliche*** Zahlungsweile beträgt 60,- € pro Monat und ist somit ***doppelt so teuer***. Details können [hier](https://www.e-recht24.de/mitglieder/?source_id=Acquisition_Navigation_Free_Mainnav_Website_AcquisitionNavigationFreeWebsiteBanner20240701_Banner_3Toolbox#pricingtable) eingesehen werden:
+Bei der Zahlungsweise ***jährlich*** fallen Kosten in Höhe von 360,- € pro Jahr an. Die ***monatliche*** Zahlungsweile beträgt 60,- € und ist somit ***doppelt so teuer***. Details können [hier](https://www.e-recht24.de/mitglieder/?source_id=Acquisition_Navigation_Free_Mainnav_Website_AcquisitionNavigationFreeWebsiteBanner20240701_Banner_3Toolbox#pricingtable) eingesehen werden:
 
 Es sollte der Tarif ***"Business"*** genutzt werden, um die notwendigen Themengebiete abzudecken.
 
@@ -257,6 +257,10 @@ Es sollte der Tarif ***"Business"*** genutzt werden, um die notwendigen Themenge
 - {{% badge color="red" %}}**Wichtig!**{{% /badge %}} **Rechtssichere Datenschutzerklärung, die alle notwendigen Punkte umfasst[^3] , auf der Website hinterlegen**
 - {{% badge color="red" %}}**Wichtig!**{{% /badge %}} **Aufbewahrungsfristen von E-Mails im Auge behalten[^5]**
 - {{% badge color="red" %}}**Die zuvor erwähnten Ratschläge beherzigen, andernfalls kann es sehr schnell sehr teuer werden kann!**{{% /badge %}}
+- {{% badge color="red" %}}**Wichtig!**{{% /badge %}} gibt es eine/n Datenschutzbeauftragte/n
+  - {{% badge color="red" %}}**Wichtig!**{{% /badge %}} wenn ja, muss diese/r in der Datenschutzerklärung aufgeführt werden
+- {{% badge color="red" %}}**Wichtig!**{{% /badge %}} **wie lautet der korrekte Firmenname**; an verschiedenen Stelle sehe ich unterschiedliche Bezeichnungen - **"Physiotherapie Zajac und Leroy"** bei Google Places, **"Zajac & Leroy Physio"** im Header der gegenwärtigen Website, **"Z&L Physio Impressum"** als Überschrift des Impressums auf der derzeitige Website --- das ist a) 💩 und b) **rechtlich exorbitant FALSCH!** Euer unternehmen hat doch sicherlich einen Register Eintrag (HWK/IHK) und das, was dort steht, ist **zwingend zu verwenden!**
+- {{% badge color="orange" %}}**Wo kein Kläger, da kein Richter...**{{% /badge %}} doch die Zeit des Richters wird euch früher oder später einholen!
 - {{% badge color="orange" %}}**ASAP!**{{% /badge %}} Daten (**Öffnungszeiten**) **bei Google Places aktualisieren**
 - {{% badge color="orange" %}}**ASAP!**{{% /badge %}} Das benötigte Material **(Texte und Bilder)** bitte **in digitaler Form bereitstellen**
 - {{% badge color="orange" %}}**ASAP!**{{% /badge %}} **Verwendete Dokumente** *(Stichwort "gedruckte Terminübersicht und abgeschnittener Text")* **auf Vordermann bringen**
