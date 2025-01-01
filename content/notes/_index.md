@@ -77,18 +77,18 @@ Bei Google Places hat man sich mal die Mühe gemacht die *Innereien* des Unterne
 Gegenwärtig liegen mir die folgenden Daten vor (von Sandra freundlicherweise, im Schweiße ihres Angesichts, via E-Mail bereitgestellt):
 
 Rechteckiges Logo (`.png` Datei)
-![Eckig .png Datei](/Logo1.png)
+![Eckig .png Datei](Logo1.png)
 
 Rechteckiges Logo (`.jpg` Datei)
-![Eckig .jpg Datei](/Logo.jpg)
+![Eckig .jpg Datei](Logo.jpg)
 
 Die bereitgestellte `.jpg` Datei habe ich dann mal bearbeitet und in zwei Teile zerlegt:
 
 1. ZL-Logo und
-![Rund, ausgeschnitten aus eckiger .jpg Datei](/half_logo.png)
+![Rund, ausgeschnitten aus eckiger .jpg Datei](half_logo.png)
 
 2. Schriftug "Zajac & Leroy Praxis für Physiotherapie)
-![ZLP Schriftzug](/zlp-text2.png)
+![ZLP Schriftzug](zlp-text2.png)
 
 Im Darkmode (Auswahl "dunkel“ unten links im Menü) ist der weiße Hintergrund der Bilder ein absolutes No-Go. Dies ist bei diesem Theme vernachlässigbar, da sie, wenn überhaupt, oben links im Menü verwendet werden würden (habe die CSS Dateien so angepasst, so dass der Menübereich in beiden Modi weiß dargestellt wird).
 
